@@ -1,7 +1,4 @@
-// Daniel Shiffman
-// http://codingtra.in
-// http://patreon.com/codingtrain
-// Code for: 
+
 
 // A class to describe a group of Particles
 // An ArrayList is used to manage the list of Particles 

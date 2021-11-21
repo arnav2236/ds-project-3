@@ -1,7 +1,4 @@
-// Daniel Shiffman
-// http://codingtra.in
-// http://patreon.com/codingtrain
-// Code for: https://youtu.be/CKeyIbT3vXI
+
 
 function Firework() {
   this.hu = random(255);
